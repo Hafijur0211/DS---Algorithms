@@ -1,2 +1,2 @@
-# DS-Algorithms
-DS &amp; Algorithms
+# DS-&-Algorithms
+DS-&-Algorithms
